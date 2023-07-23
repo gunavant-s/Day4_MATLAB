@@ -12,4 +12,5 @@ function f = fullest_row(n)
         i = i + 1;
     end
     disp(row_idx);
+    
 end
